@@ -1,16 +1,10 @@
 # eduwave_app
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## App Preview
 
-This project is a starting point for a Flutter application.
+![ui:](https://cdn.dribbble.com/userupload/12073929/file/original-516b8de983e2bde467a7ffe521953d10.png?resize=2048x1536&vertical=center)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this is a pratice project, pls note am not the designer of the ui, checkout is designer
+[designer: paperpillar](https://dribbble.com/paperpillar)
